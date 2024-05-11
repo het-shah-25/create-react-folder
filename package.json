@@ -1,0 +1,32 @@
+{
+  "name": "create-react-folder",
+  "version": "1.0.0",
+  "description": "A simple CLI to create a React folder structure",
+  "main": "index.js",
+  "bin": {
+    "create-react-folder": "./index.js"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/het-shah-25/create-react-folder.git"
+  },
+  "keywords": [
+    "react",
+    "folder",
+    "folder",
+    "structure",
+    "cli"
+  ],
+  "author": "het shah",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/het-shah-25/create-react-folder/issues"
+  },
+  "homepage": "https://github.com/het-shah-25/create-react-folder#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
