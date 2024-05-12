@@ -1,13 +1,13 @@
 {
   "name": "create-react-folder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI to create a React folder structure",
   "main": "index.js",
   "bin": {
     "create-react-folder": "./index.js"
   },
   "scripts": {
-    "test": "npm run test"
+    "postinstall": "node ./index.js"
   },
   "repository": {
     "type": "git",
