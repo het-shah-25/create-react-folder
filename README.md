@@ -79,7 +79,3 @@ Feel free to report [issues](https://github.com/het-shah-25/create-react-folder/
 ## 📬 Contact
 
 - GitHub: [het-shah-25](https://github.com/het-shah-25)
-
-```
-
-```
